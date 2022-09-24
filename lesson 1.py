@@ -26,6 +26,8 @@
 # print (full_name[2:5])
 # print (full_name[3:6])
 
+#homework:
+
 full_name = "luka tvaladze"
 
 print (full_name[-1:-6:-1])
